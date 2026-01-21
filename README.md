@@ -1,6 +1,6 @@
 # Physics: Concepts and Connections
 
-物理学的概念与文化素养（第4版）[美] Art Hobson著 文本化项目 
+物理学的概念与文化素养（第4版）[美] Art Hobson著 文本化 
 
 ## 简目
 
